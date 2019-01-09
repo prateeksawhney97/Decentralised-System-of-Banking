@@ -13,3 +13,7 @@ of their raised funds once the contribution have been made. According to a resea
 #### Our idea
 
 It is to implement a decentralised application on Ethereum Network using blockchain technology. This will make the banking system totally decentralised for activities like fund raising. There will be a central smart contract which will take care of all the banking transactions. Anyone, who wants to raise the funds for his/her startup can start a campaign through the application. The contributors can donate the money to the smart contract that we will deploy. Then the person who started the campaign or manager, request the smart contract to create a request to transfer the required funds to the desired vendor. Every contributor agrees to the created request and consensus if formed. If the number of approvals is greater than 50% of the total contributors or donators, the manager of the raised request can finalise the request and the transaction takes place from the contract to the vendors. This will reduce frauds and would help in delivering a robust system of banking. During each request of transfer of funds from smart contract to the vendors, there will be a check and the money cannot be used for one's personal needs.
+
+#### Graphical representation
+
+![Diagram](https://user-images.githubusercontent.com/35381035/47567874-4188e580-d94d-11e8-8b67-5981f56cd773.png)
