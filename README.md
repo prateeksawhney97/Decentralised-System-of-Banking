@@ -17,3 +17,18 @@ It is to implement a decentralised application on Ethereum Network using blockch
 #### Graphical representation
 
 ![Diagram](https://user-images.githubusercontent.com/35381035/47567874-4188e580-d94d-11e8-8b67-5981f56cd773.png)
+
+#### Instructions
+
+##### Tools Required:
+1. MetaMask
+2. Node Package Manager
+
+##### How to Run:
+Clone the repository
+On terminal >> npm install
+On terminal >> npm run start
+Connect MetaMask to the Rinkeby Test Network
+
+##### Other dependencies that were installed during project creation:
+On terminal >> npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-beta.26
