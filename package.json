@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^5.0.0",
-    "ganache-cli": "^6.0.3",
+    "ganache-cli": "^6.2.5",
     "mocha": "^4.1.0",
     "next": "^4.1.4",
     "next-routes": "^1.2.0",
@@ -20,8 +20,8 @@
     "react-dom": "^16.2.0",
     "semantic-ui-css": "^2.2.12",
     "semantic-ui-react": "^0.77.1",
-    "solc": "^0.4.19",
+    "solc": "^0.4.25",
     "truffle-hdwallet-provider": "0.0.3",
-    "web3": "1.0.0-beta.26"
+    "web3": "^1.0.0-beta.26"
   }
 }
