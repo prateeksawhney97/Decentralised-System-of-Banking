@@ -1,7 +1,7 @@
 
           window.__NEXT_REGISTER_PAGE('/', function() {
             var comp = module.exports =
-webpackJsonp([5],[
+webpackJsonp([8],[
 /* 0 */
 /***/ (function(module, exports) {
 
