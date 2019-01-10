@@ -63,10 +63,15 @@ On terminal >> npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-bet
 
 ![screenshot from 2019-01-10 19-11-09](https://user-images.githubusercontent.com/34116562/50973042-fb83fc80-150d-11e9-8e34-db0d66577d4c.png)
 
-####a
+#### Showing a pre-defined campaign:
 
 ![screenshot from 2019-01-10 19-09-18](https://user-images.githubusercontent.com/34116562/50973010-ed35e080-150d-11e9-9106-6cc5d4ae3b01.png)
+
+#### Contributing to that particular campaign:
+
 ![screenshot from 2019-01-10 19-09-41](https://user-images.githubusercontent.com/34116562/50973012-eeffa400-150d-11e9-81c5-737decde1823.png)
+
+
 ![screenshot from 2019-01-10 19-09-51](https://user-images.githubusercontent.com/34116562/50973017-f161fe00-150d-11e9-8a6c-481c32dd0b77.png)
 ![screenshot from 2019-01-10 19-10-27](https://user-images.githubusercontent.com/34116562/50973020-f4f58500-150d-11e9-8dc0-3a55a63bbe73.png)
 ![screenshot from 2019-01-10 19-10-35](https://user-images.githubusercontent.com/34116562/50973033-f921a280-150d-11e9-8a7c-bda4958eefec.png)
