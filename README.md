@@ -39,3 +39,21 @@ It is to implement a decentralised application on Ethereum Network using blockch
 ##### Other dependencies that were installed during project creation:
 
 On terminal >> npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-beta.26
+
+### Screenshots:
+
+![screenshot from 2019-01-10 19-07-17](https://user-images.githubusercontent.com/34116562/50972990-e1e2b500-150d-11e9-8c14-854064565723.png)
+![screenshot from 2019-01-10 19-07-51](https://user-images.githubusercontent.com/34116562/50972996-e3ac7880-150d-11e9-9c8f-056c58f5b286.png)
+![screenshot from 2019-01-10 19-08-36](https://user-images.githubusercontent.com/34116562/50972997-e4dda580-150d-11e9-91df-264e1f1cd2f8.png)
+![screenshot from 2019-01-10 19-08-49](https://user-images.githubusercontent.com/34116562/50973004-e8712c80-150d-11e9-892a-6d972ce1bcb1.png)
+![screenshot from 2019-01-10 19-09-07](https://user-images.githubusercontent.com/34116562/50973006-ead38680-150d-11e9-9df1-23ce6b4ea34b.png)
+![screenshot from 2019-01-10 19-09-18](https://user-images.githubusercontent.com/34116562/50973010-ed35e080-150d-11e9-9106-6cc5d4ae3b01.png)
+![screenshot from 2019-01-10 19-09-41](https://user-images.githubusercontent.com/34116562/50973012-eeffa400-150d-11e9-81c5-737decde1823.png)
+![screenshot from 2019-01-10 19-09-51](https://user-images.githubusercontent.com/34116562/50973017-f161fe00-150d-11e9-8a6c-481c32dd0b77.png)
+![screenshot from 2019-01-10 19-10-27](https://user-images.githubusercontent.com/34116562/50973020-f4f58500-150d-11e9-8dc0-3a55a63bbe73.png)
+![screenshot from 2019-01-10 19-10-35](https://user-images.githubusercontent.com/34116562/50973033-f921a280-150d-11e9-8a7c-bda4958eefec.png)
+![screenshot from 2019-01-10 19-11-09](https://user-images.githubusercontent.com/34116562/50973042-fb83fc80-150d-11e9-8e34-db0d66577d4c.png)
+![screenshot from 2019-01-10 19-12-16](https://user-images.githubusercontent.com/34116562/50973046-fde65680-150d-11e9-9fd0-9b27491df3de.png)
+![screenshot from 2019-01-10 19-26-38](https://user-images.githubusercontent.com/34116562/50973051-0048b080-150e-11e9-8972-d304896eb47a.png)
+![screenshot from 2019-01-10 19-26-44](https://user-images.githubusercontent.com/34116562/50973056-02ab0a80-150e-11e9-9db1-de04b03d9109.png)
+
