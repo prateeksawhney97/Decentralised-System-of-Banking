@@ -81,11 +81,15 @@ On terminal >> npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-bet
 
 ![screenshot from 2019-01-10 19-10-35](https://user-images.githubusercontent.com/34116562/50973033-f921a280-150d-11e9-8a7c-bda4958eefec.png)
 
-
-
-
+#### Testing of the Smart Contract in REMIX
 
 ![screenshot from 2019-01-10 19-12-16](https://user-images.githubusercontent.com/34116562/50973046-fde65680-150d-11e9-9fd0-9b27491df3de.png)
+
+#### Deployed Contracts:
+
 ![screenshot from 2019-01-10 19-26-38](https://user-images.githubusercontent.com/34116562/50973051-0048b080-150e-11e9-8972-d304896eb47a.png)
+
+#### Campaign Factory and Campaign Smart Contract with different functions:
+
 ![screenshot from 2019-01-10 19-26-44](https://user-images.githubusercontent.com/34116562/50973056-02ab0a80-150e-11e9-9db1-de04b03d9109.png)
 
