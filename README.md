@@ -28,13 +28,13 @@ It is to implement a decentralised application on Ethereum Network using blockch
 
 ##### How to Run:
 
-Clone the repository
+1. Clone the repository
 
-On terminal >> npm install
+2. On terminal >> npm install
 
-On terminal >> npm run start
+3. On terminal >> npm run start
 
-Connect MetaMask to the Rinkeby Test Network
+4. Connect MetaMask to the Rinkeby Test Network
 
 ##### Other dependencies that were installed during project creation:
 
