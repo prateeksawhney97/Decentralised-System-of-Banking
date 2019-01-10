@@ -46,6 +46,10 @@ On terminal >> npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-bet
 
 ![screenshot from 2019-01-10 19-07-17](https://user-images.githubusercontent.com/34116562/50972990-e1e2b500-150d-11e9-8c14-854064565723.png)
 
+#### MetaMask:
+
+![screenshot from 2019-01-10 19-45-55](https://user-images.githubusercontent.com/34116562/50974200-ab5a6980-1510-11e9-81c3-9e7937feaab7.png)
+
 #### Creating a new Campaign:
 
 ![screenshot from 2019-01-10 19-07-51](https://user-images.githubusercontent.com/34116562/50972996-e3ac7880-150d-11e9-9c8f-056c58f5b286.png)
